@@ -2,9 +2,9 @@
 
 
 
-**Project**: Vrinda Store Sales Report
-**Client**: Vrinda Store
-**Tool/Technology**: MS Excel
+**Project**: Vrinda Store Sales Report\
+**Client**: Vrinda Store\
+**Tool/Technology**: MS Excel\
 **Skills**: #dataanalysis #datacleaning #dataprocessing #dashboard 
 
 
