@@ -1,11 +1,11 @@
-Unlocking Retail Insights: My latest data analysis project enhances store performance and customer engagement.
+## Unlocking Retail Insights: My latest data analysis project enhances store performance and customer engagement.
 
 
 
-Project: Vrinda Store Sales Report
-Client: Vrinda Store
-Tool/Technology: MS Excel
-Skills: #dataanalysis #datacleaning #dataprocessing #dashboard 
+**Project**: Vrinda Store Sales Report
+**Client**: Vrinda Store
+**Tool/Technology**: MS Excel
+**Skills**: #dataanalysis #datacleaning #dataprocessing #dashboard 
 
 
 
