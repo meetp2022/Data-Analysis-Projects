@@ -1,4 +1,4 @@
-**Unlocking Retail Insights: My latest data analysis project enhances store performance and customer engagement.**
+Unlocking Retail Insights: My latest data analysis project enhances store performance and customer engagement.
 
 
 
